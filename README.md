@@ -1,7 +1,6 @@
-PonySparkleRainbowPrincessGemstoneCastle
-========================================
+# Pony Sparkle Rainbow Princess Gemstone Castle
 
-Pony Sparkle Rainbow Princess Gemstone Castle: The name says it all.
+The name says it all.
 
 ## License
 
